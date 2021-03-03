@@ -1,3 +1,4 @@
 Second File
-Resolved conflicts
+new branch
+
 
